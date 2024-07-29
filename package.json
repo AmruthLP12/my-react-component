@@ -1,6 +1,6 @@
 {
   "name": "@amruthlp/my-react-component",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "dist/index.js",
   "description": "A simple React component",
   "scripts": {
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/amruthlp12/my-react-component.git"
+    "url": "https://github.com/AmruthLP12/my-react-component.git"
   },
   "keywords": [
     "react",
     "component"
   ],
-  "author": "",
+  "author": "Amruth L P",
   "license": "ISC",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
